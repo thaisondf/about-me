@@ -40,24 +40,22 @@ Olá! Sou Thaison, um entusiasta da tecnologia em busca de novas oportunidades n
 
 ## Educação
 
-- **Cursando Análise e Desenvolvimento de Sistemas** - [*Fatec São Caetano do Sul - 3º SEM*](https://www.fatecsaocaetano.edu.br/)
+- **Cursando Análise e Desenvolvimento de Sistemas** - [*Fatec São Caetano do Sul - 5º SEM*](https://www.fatecsaocaetano.edu.br/)
+- **SAP S/4HANA 2025 T-Academy & Ready Proway** - [*Clique aqui para validar o certificado*](https://ready.tec.br/validar-certificado) Credencial → d17ccac7-e7db-409b-83f9-2e12eccd525
 
 ## Projetos Pessoais
 
 - **Vetus Soft**
   - Um projeto interdisciplinar envolvendo duas matérias (Engenharia de Software e Sistemas de Informação), o objetivo era criar um Software para resolver algum problema ou automatizar tarefas, então criamos o Vetus Soft, um Software destinado à um asilo, com o intuito de automatizar as tarefas e agilizar ações humanas.
+- **GIT CAR**
+  - Um projeto desenvolvido para integrar conhecimentos de Programação Orientada a Objetos. O objetivo foi criar um sistema completo para gerenciar operações essenciais de uma concessionária, permitindo organizar informações de clientes, veículos, vendedores e vendas em um ambiente estruturado. O sistema foi construído em Java utilizando Maven, aplicando boas práticas de modularização e arquitetura em camadas, além de incluir funcionalidades como cadastro de entidades, registro de test-drive, geração de relatórios e controle geral das operações.
+
 
 ## Contato
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaisondf/)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaisondf)
-- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thaisondamacenofreitas819@gmail.com)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaisondf&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaisondf&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thaisond.freitas@proton.me)
 
 ---
 Obrigado por visitar meu perfil! Estou aberto a novas conexões e oportunidades de aprendizado.
